@@ -1,4 +1,4 @@
-package kata
+package kyu8
 
 import "strings"
 
