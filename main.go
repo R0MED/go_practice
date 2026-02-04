@@ -11,4 +11,6 @@ func main() {
 	kyu8.SayHelloWorld()
 
 	fmt.Println(kyu8.EvenOrOdd(11))
+	fmt.Println(kyu8.CountBy(1, 5))
 }
+
